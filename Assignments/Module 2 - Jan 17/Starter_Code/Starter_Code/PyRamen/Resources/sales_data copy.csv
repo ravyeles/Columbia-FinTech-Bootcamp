@@ -1,0 +1,10 @@
+Line_Item_ID,Date,Credit_Card_Number,Quantity,Menu_Item
+1,01-01-2017,7437926611570799,1,spicy miso ramen
+2,01-01-2017,7437926611570799,1,spicy miso ramen
+3,01-01-2017,8421920068932819,3,tori paitan ramen
+4,01-01-2017,8421920068932819,3,tori paitan ramen
+5,01-01-2017,4787310681569648,1,truffle butter ramen
+6,01-01-2017,4787310681569648,1,truffle butter ramen
+7,01-01-2017,8252818705821725,1,tonkotsu ramen
+8,01-01-2017,8252818705821725,1,tonkotsu ramen
+9,01-01-2017,3119034881407323,1,vegetarian spicy miso
